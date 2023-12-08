@@ -1,0 +1,1 @@
+{(restaurantPedido=Restaurante do Ângelo, usuarioPedido=, foods=[Sucodelaranja,2,10.0])};
